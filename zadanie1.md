@@ -58,7 +58,7 @@ Dokładny rozmiar obrazu:
 
 
 ### CZĘŚĆ DODATKOWA
-Utworzony wcześniej kontroler lab7builder pasuje do tego zadania 
+Utworzony wcześniej kontroler lab7builder pasuje do tego zadania.<br />
 Ustawienie builder-a lab7builder jako domyślnego
 ```
 docker buildx use lab7builder

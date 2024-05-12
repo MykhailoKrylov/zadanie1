@@ -1,4 +1,4 @@
-![image](https://github.com/MykhailoKrylov/zadanie1/assets/134151663/3c1bc948-6a5b-4dd9-84d3-7ec3a6a799a6)# zadanie1
+# zadanie1
 CZĘŚĆ OBOWIĄZKOWA
 
 1.  Szukając sposobu na wykonanie tego zadania, znalazłem moduł Satelize do pobierania informacji o lokalizacji użytkownika na podstawie adresu IP. Wszystko działało dobrze, ale pojawił się problem z lokalizacją przez localhost, więc dodałem sprawdzanie, czy adres IP jest adresem wewnętrznym w sieci lokalnej.
